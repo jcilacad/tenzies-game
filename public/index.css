@@ -1,0 +1,29 @@
+body {
+  max-height: 100%;
+  max-width: 100%;
+  font-family: "karla", sans-serif;
+  padding-top: 3rem;
+}
+
+.div--border {
+  max-height: inherit;
+  /* height: 100%; */
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+  border: 3rem solid #000000;
+  width: 80wh;
+  border-radius: 0px;
+}
+
+.title-text {
+  font-size: 3rem;
+}
+
+.description-text {
+  font-size: 1.5rem;
+}
+
+.div--title {
+  text-align: center;
+}
